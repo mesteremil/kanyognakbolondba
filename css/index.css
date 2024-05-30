@@ -1,0 +1,37 @@
+body{
+    
+}
+
+.suicide{
+    z-index: 3;
+    width: 355px;
+    height: 200px;
+}
+
+.negligent{
+    z-index: 3;
+    width: 355px;
+    height: 200px;
+}
+
+.terror{
+    z-index: 3;
+  width: 355px;
+  height: 200px;
+}
+
+.scerial{
+    z-index: 3;
+    width: 355px;
+    height: 200px;
+}
+
+.wage{
+    z-index: 3;
+    width: 355px;
+    height: 200px;
+}
+
+#osztas {
+    margin-top: 20vh;
+}
